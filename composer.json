@@ -19,8 +19,8 @@
         "source": "https://github.com/blood72/laravel-blade-minify-compiler"
     },
     "require": {
-        "php": "^7.3",
-        "blood72/blade-minify": "^1.0",
+        "php": ">=7.3",
+        "blood72/blade-minify": "^1.4",
         "illuminate/view": "^7.0|^8.0"
     },
     "require-dev": {
