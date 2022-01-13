@@ -13,7 +13,7 @@ Laravel Blade Compiler with minify for personal use
 ## Requirement
 
 - PHP >= 7.3
-- Laravel ^7.0 or ^8.0
+- Laravel ^7.0 | ^8.0 | ^9.0
 - blood72/blade-minify ^1.4
 
 ## Installation
